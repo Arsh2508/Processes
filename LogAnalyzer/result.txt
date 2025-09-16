@@ -1,0 +1,4 @@
+Aggregated Results:
+Total requests:15
+Total 500 errors:6
+Global average response time:204

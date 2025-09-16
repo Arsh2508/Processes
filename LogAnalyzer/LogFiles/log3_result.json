@@ -1,0 +1,6 @@
+{
+	"file": "./LogFiles/log3.txt",
+	"total_requests": 5,
+	"http_500_errors": 2,
+	"avg_response_time": 204
+}
